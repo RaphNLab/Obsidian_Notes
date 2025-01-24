@@ -11,12 +11,8 @@
             "id": "6ff608a34b602adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Engineering/Zephyr Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Engineering/Zephyr Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Engineering/Zephyr Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer_Engineering/Zephyr Notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,27 +138,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42ffac07b05e542e",
+  "active": "6ff608a34b602adf",
   "lastOpenFiles": [
-    "Computer_Engineering",
-    "Computer_Engineering/Understanding linker script.md",
-    "Computer_Engineering/Microprocessor_Organization/Pasted image 20240813142206.png",
-    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161226.png",
-    "Computer_Engineering/Microprocessor_Organization/Pasted image 20240813130722.png",
-    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161211.png",
-    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161157.png",
-    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161140.png",
-    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161124.png",
-    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161102.png",
-    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161046.png",
-    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161027.png",
-    "Computer_Engineering/Microprocessor_Organization/Microprocessors notes.md",
-    "Computer_Engineering/Microprocessor_Organization",
-    "Computer_Engineering/Embedded_SW_Organization/Embedded Software organization.md",
-    "Computer_Engineering/STM32_Clock_Configuration/STM32 Clock Config.md",
-    "Computer_Engineering/STM32_Clock_Configuration",
     "Computer_Engineering/Zephyr Notes.md",
-    "PINCLIRIO Notes.md",
-    "Computer_Engineering/Embedded_SW_Organization"
+    "Computer_Engineering/Understanding linker script.md",
+    "Computer_Engineering/STM32_Clock_Configuration/STM32 Clock Config.md",
+    "Computer_Engineering/STM32_Clock_Configuration/Pasted image 20240621135804.png",
+    "Computer_Engineering/STM32_Clock_Configuration/Pasted image 20240618170502.png",
+    "Computer_Engineering/STM32_Clock_Configuration",
+    "Computer_Engineering/Microprocessor_Organization/Pasted image 20240813142206.png",
+    "Computer_Engineering/Microprocessor_Organization/Pasted image 20240813154738.png",
+    "Computer_Engineering/Microprocessor_Organization/Microprocessors notes.md",
+    "Computer_Engineering/Microprocessor_Organization/Pasted image 20240813130722.png",
+    "Computer_Engineering/Microprocessor_Organization",
+    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161226.png",
+    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161211.png",
+    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161140.png",
+    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161157.png",
+    "Computer_Engineering/Embedded_SW_Organization/Pasted image 20240808161102.png",
+    "Computer_Engineering/Embedded_SW_Organization/Embedded Software organization.md",
+    "Computer_Engineering/Embedded_SW_Organization",
+    "Computer_Engineering",
+    "README.md",
+    "PINCLIRIO Notes.md"
   ]
 }
