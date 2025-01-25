@@ -11,8 +11,12 @@
             "id": "6ff608a34b602adf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test_Driven_Development/Test Driven development book resume.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test_Driven_Development/Test Driven development book resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test_Driven_Development/Test Driven development book resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test_Driven_Development/Test Driven development book resume.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "6ff608a34b602adf",
   "lastOpenFiles": [
+    "Test_Driven_Development/Test Driven development book resume.md",
+    "Test_Driven_Development",
     "Computer_Engineering/Zephyr Notes.md",
     "Computer_Engineering/Understanding linker script.md",
     "Computer_Engineering/STM32_Clock_Configuration/STM32 Clock Config.md",
