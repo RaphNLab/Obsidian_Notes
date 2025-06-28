@@ -9,6 +9,7 @@
 - git log --oneline //Print the previous commit on one line.Dont show the author 
 - git reset commit-id //Erase last commit and jump back to desired commit-id
 - git merge -m "message" branch-name // Merge from branch-name to the main branch
+- git branch -d branch-name //To delete a branch
 - git branch -d branch-name // Delette the branch with the name "branch-name" 
 - git push --all //Push changes from all branches
 - git pull // fetch and merge files from the git-cloud to the local directory.
