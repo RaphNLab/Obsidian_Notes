@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "51670b5015db1238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OCPP_Electro_Vehicule/Understanding OCPP Protocol.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Understanding OCPP Protocol"
-            }
-          },
-          {
             "id": "d7a7e0e22c37a3e2",
             "type": "leaf",
             "state": {
@@ -53,14 +39,12 @@
             "id": "f65a1fd4e7509516",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Computer_Engineering/Learning C++/Learning C++.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer_Engineering/Sections.png"
               },
-              "icon": "lucide-file",
-              "title": "Learning C++"
+              "icon": "lucide-image",
+              "title": "Sections"
             }
           },
           {
@@ -69,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCPP_Electro_Vehicule/Understanding OCPP Protocol.md",
+                "file": "GIT/GIT notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding OCPP Protocol"
+              "title": "GIT notes"
             }
           }
         ],
@@ -226,33 +210,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f65a1fd4e7509516",
+  "active": "9bbc4256cdfd4ba9",
   "lastOpenFiles": [
+    "Computer_Engineering/Understanding_MCU_Startup.md",
+    "Computer_Engineering/Zephyr Notes.md",
+    "Computer_Engineering/Pasted image 20250629200023.png",
+    "Computer_Engineering/Pasted image 20250629195226.png",
+    "Computer_Engineering/Pasted image 20250629195150.png",
+    "Computer_Engineering/Pasted image 20250629194717.png",
+    "OCPP_Electro_Vehicule/Understanding OCPP Protocol.md",
+    "Computer_Engineering/Sections_1.png",
+    "Computer_Engineering/Learning C++/Learning C++.md",
+    "Computer_Engineering/Sections.png",
     "Immobilien_Notitzen/Immobilien Cheat Sheet.md",
     "Computer_Engineering/RTOS/Learning FreeRTOS.md",
     "Template/Note_template.md",
-    "Computer_Engineering/Learning C++/Learning C++.md",
     "Template",
     "Immobilien_Notitzen/Vermögensaufbau.png",
     "Immobilien_Notitzen",
-    "OCPP_Electro_Vehicule/Understanding OCPP Protocol.md",
     "Computer_Engineering/Learning C++/Vector_Push_Back.png",
     "Computer_Engineering/Learning C++/Vector_Access.png",
     "Computer_Engineering/STM32_Clock_Configuration/STM32 Clock Config.md",
-    "Computer_Engineering/Understanding linker script.md",
     "Test_Driven_Development/Test Driven development book resume.md",
     "OCPP_Electro_Vehicule/Transaction_Event.png",
-    "OCPP_Electro_Vehicule/Mobile_App_Authorization.png",
-    "OCPP_Electro_Vehicule/RFID_Authorization.png",
-    "Computer_Engineering/Learning C++/VariableInMemeory.png",
-    "Computer_Engineering/Learning C++/NamingVariables.png",
     "Computer_Engineering/Learning C++",
-    "OCPP_Electro_Vehicule/Reset_request.png",
-    "OCPP_Electro_Vehicule/BootNotification.png",
     "OCPP_Electro_Vehicule",
     "README.md",
     "Test_Driven_Development",
-    "Computer_Engineering/Zephyr Notes.md",
     "Computer_Engineering/STM32_Clock_Configuration",
     "Computer_Engineering/Microprocessor_Organization/Microprocessors notes.md",
     "Computer_Engineering/Microprocessor_Organization",
